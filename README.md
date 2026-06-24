@@ -1,0 +1,2 @@
+# FlashcardQuizApp
+Developed a Flashcard Quiz App using HTML, CSS, and JavaScript to help users study and memorize information effectively. The application displays questions on flashcards with a "Show Answer" feature to reveal answers. Users can navigate through flashcards using Next and Previous buttons and can add, edit, or delete flashcards for personalized learning. The project features a simple, clean, and user-friendly interface that enhances the study experience.
